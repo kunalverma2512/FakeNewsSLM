@@ -1,0 +1,12 @@
+journey.md
+node_modules/
+venv/
+__pycache__/
+*.pyc
+.env
+dist/
+build/
+.DS_Store
+.ipynb_checkpoints/
+data/
+models/
