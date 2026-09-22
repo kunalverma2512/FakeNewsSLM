@@ -10,3 +10,6 @@ build/
 .ipynb_checkpoints/
 data/
 models/
+perfect_model.zip
+backend/model/
+backend/venv/
