@@ -1,6 +1,6 @@
 journey.md
 node_modules/
-venv/
+/venv/
 __pycache__/
 *.pyc
 .env
@@ -8,8 +8,6 @@ dist/
 build/
 .DS_Store
 .ipynb_checkpoints/
-data/
-models/
+/data/
+/models/
 perfect_model.zip
-backend/model/
-backend/venv/
